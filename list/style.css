@@ -1,0 +1,14 @@
+.tree span:hover {
+	font-weight: bold;
+ }
+
+ .tree span {
+	cursor: pointer;
+ }
+
+ button {
+	cursor: pointer;
+	/* width: 15px;
+	height: 15px;
+	background-color: #707070; */
+ }
